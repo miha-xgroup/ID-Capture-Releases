@@ -1,0 +1,10 @@
+{
+  "product": "ID Capture",
+  "version": "1.0.12",
+  "versionCode": 14,
+  "platform": "macos",
+  "minimumMacOSVersion": "26.3",
+  "file": "ID-Capture-1.0.12.zip",
+  "sha256": "328b138252fc4d8900609d81b1c675ca74a8bd969d2b1e45e23b0efacdda3d05",
+  "notes": "Developer ID signed and notarized release."
+}
