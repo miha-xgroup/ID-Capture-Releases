@@ -3,13 +3,13 @@
     <channel>
         <title>ID Capture</title>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Thu, 02 Jul 2026 16:04:02 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Thu, 02 Jul 2026 16:21:23 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/miha-xgroup/ID-Capture-Releases/raw/main/app/macos/1.0.10/ID-Capture-1.0.10.zip" length="3618038" type="application/octet-stream" sparkle:edSignature="KJqtywge8pldRMAqcSZV1oj1NOmPUxZJO8QZ0YuLSgc8LxJlr3cj9KGyyDD7wUuvyTDWjZOlHuc4jmQhCQEAAg=="/>
+            <enclosure url="https://github.com/miha-xgroup/ID-Capture-Releases/raw/main/app/macos/1.0.11/ID-Capture-1.0.11.zip" length="3618038" type="application/octet-stream" sparkle:edSignature="AW11nNBU5RrWBJ3d1VGDoLmNEbMSVVjTjXpebl4FJ1+bO27HYkLCs+3Cq96+YQayj6Ry3my4qmujnjCOXX3ICA=="/>
         </item>
     </channel>
 </rss>
