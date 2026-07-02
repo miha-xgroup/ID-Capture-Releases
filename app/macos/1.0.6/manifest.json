@@ -5,6 +5,6 @@
   "platform": "macos",
   "minimumMacOSVersion": "26.3",
   "file": "ID-Capture-1.0.6.zip",
-  "sha256": "001ee13ebc908efdcd71779d3ca16a43c89b3dcabad08fae7cf4d6e1fdc99d8a",
+  "sha256": "8073edf9aa9f5df2842029e045e29102f81411160b16ecb92ffb4b6537788b31",
   "notes": "Initial ID Capture updater release."
 }
