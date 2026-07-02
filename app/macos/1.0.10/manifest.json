@@ -1,0 +1,10 @@
+{
+  "product": "ID Capture",
+  "version": "1.0.10",
+  "versionCode": 12,
+  "platform": "macos",
+  "minimumMacOSVersion": "26.3",
+  "file": "ID-Capture-1.0.10.zip",
+  "sha256": "99e21be577ba6c56af4ce4432c5371de558b374b6d7a28830210f3c5ea62208a",
+  "notes": "Sparkle updater verification build."
+}
