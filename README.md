@@ -25,8 +25,12 @@ metadata for that release and the matching zipped app build.
 The app checks:
 
 ```text
-https://raw.githubusercontent.com/miha-xgroup/ID-Capture-Releases/main/app/macos/latest.json
+https://raw.githubusercontent.com/miha-xgroup/ID-Capture-Releases/main/appcast.xml
 ```
+
+`app/macos/latest.json` and per-version `manifest.json` files are retained for
+human-readable release metadata, but Sparkle uses `appcast.xml` for automatic
+updates.
 
 ## Publishing A Release
 
@@ -41,4 +45,6 @@ shasum -a 256 app/macos/VERSION/ID-Capture-VERSION.zip
 
 5. Update `app/macos/VERSION/manifest.json`.
 6. Update `app/macos/latest.json`.
-7. Commit and push.
+7. Run Sparkle's `generate_appcast` tool over the folder that contains the
+   update zip so the archive is signed and `appcast.xml` is updated.
+8. Commit and push.
